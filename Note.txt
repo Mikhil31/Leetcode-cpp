@@ -1,0 +1,3 @@
+if leetcode problem the problem number is written
+
+if others the source is written (YT: YouTube)
